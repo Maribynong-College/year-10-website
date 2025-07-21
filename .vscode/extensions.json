@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "ritwickdey.liveserver",
+    "ms-vscode.live-preview",
+    "eamodio.gitlens",
+    "streetsidesoftware.code-spell-checker",
+    "esbenp.prettier-vscode",
+    "ms-vscode.vscode-json",
+    "bradlc.vscode-tailwindcss"
+  ],
+  "unwantedRecommendations": [
+    "github.copilot",
+    "github.copilot-chat",
+    "ms-vscode.vscode-ai-toolkit"
+  ]
+}
